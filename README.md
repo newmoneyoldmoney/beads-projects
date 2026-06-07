@@ -29,7 +29,7 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 *Everything you need to start a new hobby.*
 
 > **Coming Soon:** I am currently finalizing my comprehensive PDF guide. 
-> [**Click here to sign up for the waitlist**](YOUR_SIGNUP_LINK) 
+> [**Click here to sign up for the waitlist**](https://newmoneyoldmoney.substack.com/welcome)
 > *Get notified the moment my new pattern collection drops!*
 
 ---
