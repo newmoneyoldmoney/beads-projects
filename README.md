@@ -15,8 +15,10 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 ---
 
 ## 📬 Latest from my Substack
-<!-- SUBSTACK:START -->
-<!-- SUBSTACK:END -->
+(Automatically updated every 12 hours)
+
+[See full list →](SUBSTACK_POSTS.md)
+
 
 
 ---
