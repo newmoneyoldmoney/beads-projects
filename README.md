@@ -17,9 +17,8 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 ## ✍️ My Beading Blog
 *Insights, tutorials, and behind-the-scenes stories from my workbench.*
 
-*   [Check out my latest post on Color Theory](YOUR_BLOG_LINK)
-*   [How I organize my bead stash](YOUR_BLOG_LINK)
-*   [Beginner's guide to thread tension](YOUR_BLOG_LINK)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
