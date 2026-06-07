@@ -6,6 +6,16 @@
 Welcome to my creative space! Here you will find my latest projects, recommended supplies, and resources for your own beading journey.
 
 ---
+<a href="cascade-earrings.html" style="
+  display:inline-block;
+  padding:10px 18px;
+  background:#b85c9e;
+  color:#fff;
+  border-radius:999px;
+  text-decoration:none;
+  font-weight:600;
+">View Cascade Earrings Tutorial</a>
+
 
 ## 🔗 Recommended Supplies
 *I use these tools and materials in my own projects. By shopping through these links, you help support my work.*
