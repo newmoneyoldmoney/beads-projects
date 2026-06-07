@@ -14,11 +14,10 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 
 ---
 
-## ✍️ My Beading Blog
-*Insights, tutorials, and behind-the-scenes stories from my workbench.*
+## 📬 Latest from my Substack
+<!-- SUBSTACK:START -->
+<!-- SUBSTACK:END -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
