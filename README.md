@@ -10,7 +10,7 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 ## 🔗 Recommended Supplies
 *I use these tools and materials in my own projects. By shopping through these links, you help support my work.*
 
-[<img src="https://img.shields.io/badge/Amazon-Bead_Supplies-orange?style=for-the-badge&logo=amazon" />](YOUR_AMAZON_AFFILIATE_LINK_HERE)
+[<img src="https://img.shields.io/badge/Amazon-Bead_Supplies-orange?style=for-the-badge&logo=amazon" />]((https://amzn.to/43Z8sG1)
 
 ---
 
@@ -23,16 +23,13 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 
 ---
 
-## 📘 Patterns & Tutorials
-*Take your skills to the next level with my exclusive patterns.*
+## 📘 Beginner's Guide to Beading
+*Everything you need to start a new hobby.*
 
 > **Coming Soon:** I am currently finalizing my comprehensive PDF guide. 
 > [**Click here to sign up for the waitlist**](YOUR_SIGNUP_LINK) 
 > *Get notified the moment my new pattern collection drops!*
 
 ---
-
-## 📱 Connect With Me
-[<img src="https://img.shields.io/badge/Instagram-@YourHandle-purple?style=flat-square&logo=instagram" />](YOUR_INSTAGRAM_LINK)
 
 </div>
