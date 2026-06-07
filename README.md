@@ -10,7 +10,7 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 ## 🔗 Recommended Supplies
 *I use these tools and materials in my own projects. By shopping through these links, you help support my work.*
 
-[<img src="https://img.shields.io/badge/Amazon-Bead_Supplies-orange?style=for-the-badge&logo=amazon" />]((https://amzn.to/43Z8sG1)
+[<img src="https://img.shields.io/badge/Amazon-Bead_Supplies-orange?style=for-the-badge&logo=amazon" />](https://amzn.to/43Z8sG1)
 
 ---
 
