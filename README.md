@@ -14,10 +14,12 @@ Welcome to my creative space! Here you will find my latest projects, recommended
 
 ---
 
-## 📬 Latest from my Substack
-(Automatically updated every 12 hours)
+## ✍️ My Beading Blog
+*Insights, tutorials, and behind-the-scenes stories from my workbench.*
 
-[See full list →](SUBSTACK_POSTS.md)
+*   [Check out my latest post on Color Theory]((https://newmoneyoldmoney.substack.com/p/the-art-of-the-palette)
+*   [How I organize my bead stash]((https://open.substack.com/pub/newmoneyoldmoney/p/how-to-organize-your-beading-supplies?r=8k2pxy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true))
+*   [Beginner's guide to thread tension](https://open.substack.com/pub/newmoneyoldmoney/p/a-beginners-guide-to-thread-tension?r=8k2pxy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 
 
