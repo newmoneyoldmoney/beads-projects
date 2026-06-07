@@ -17,7 +17,7 @@ async function run() {
 
 run();
 {
-  "name": "substack-sync",
+  "name": "beads-projects",
   "type": "module",
   "dependencies": {
     "rss-parser": "^3.12.0"
